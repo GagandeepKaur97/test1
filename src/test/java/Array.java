@@ -4,7 +4,8 @@ public class Array {
         int highest = number[0];
 
 
-
+//something is going on
+        System.out.println("changed");
         for (int i = 1; i < number.length; i++)
         {
             System.out.println("inside for loop");
